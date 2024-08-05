@@ -1,0 +1,70 @@
+{
+  "students": [
+    {
+      "id": "e7ea",
+      "name": "Est dolores anim et ",
+      "age": "4",
+      "description": "Dicta enim quasi exe"
+    },
+    {
+      "id": "92d1",
+      "name": "Ea rerum excepturi e",
+      "age": "77",
+      "description": "Sequi ab consequatur"
+    },
+    {
+      "id": "7f93",
+      "name": "Fugit aut eu totam ",
+      "age": "84",
+      "description": "Facilis reprehenderi"
+    },
+    {
+      "id": "ebe3",
+      "name": "Non ipsum perferend",
+      "age": "41",
+      "description": "Veniam ullamco dolo"
+    },
+    {
+      "id": "f927",
+      "name": "Aut minima vel repre",
+      "age": "62",
+      "description": "Aute amet proident"
+    },
+    {
+      "id": "10f4",
+      "name": "Voluptate aute labor",
+      "age": "93",
+      "description": "Fugiat rerum dolore "
+    },
+    {
+      "id": "ad3d",
+      "name": "Voluptate aute labor",
+      "age": "93",
+      "description": "Fugiat rerum dolore "
+    },
+    {
+      "id": "d13d",
+      "name": "Voluptate aute labor",
+      "age": "93",
+      "description": "Fugiat rerum dolore "
+    },
+    {
+      "id": "b16b",
+      "name": "Modi qui aspernatur ",
+      "age": "63",
+      "description": "Omnis dolores dolore"
+    },
+    {
+      "id": "71b4",
+      "name": "Quidem totam amet e",
+      "age": "52",
+      "description": "Voluptate quisquam i"
+    },
+    {
+      "id": "0ccd",
+      "name": "Doloremque laboris e",
+      "age": "36",
+      "description": "Et et eos delectus"
+    }
+  ]
+}
